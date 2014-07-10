@@ -59,11 +59,11 @@ class GeoIP {
 		"ip" 			=> "127.0.0.0",
 		"isoCode" 		=> "US",
 		"country" 		=> "United States",
-		"city" 			=> "New Haven",
-		"state" 		=> "CT",
-		"postal_code" 	=> "06510",
-		"lat" 			=> 41.31,
-		"lon" 			=> -72.92,
+		"city" 			=> "New York",
+		"state" 		=> "NY",
+		"postal_code" 	=> "10017",
+		"latitude" 		=> 40.750333,
+		"longitude" 	=> -73.974715,
 		"default"       => true
 	);
 
