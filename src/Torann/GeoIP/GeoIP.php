@@ -171,7 +171,7 @@ class GeoIP {
 			"state" 		=> $record->mostSpecificSubdivision->isoCode,
 			"postal_code" 	=> $record->postal->code,
 			"lat" 			=> $record->location->latitude,
-			"lon" 			=> $record->location->longitude,
+			"lng" 			=> $record->location->longitude,
 			"latitude" 		=> $record->location->latitude,
 			"longitude" 	=> $record->location->longitude,
 			"default"       => false
